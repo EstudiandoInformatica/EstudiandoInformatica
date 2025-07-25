@@ -44,7 +44,7 @@ Configuraciones de sistemas y herramientas mencionadas en el sitio.
 
 Consulta nuestra Guía de Contribución para más detalles.
 
-[🌐 Visita la web](https://estudiandoinformatica.com)
+[🌐 Visita la web](https://estudiandoinformatica.com){:target="_blank"}
 
 Explora todos los recursos y tutoriales en EstudiandoInformatica.Com. ¡Únete a nuestra comunidad y sigue aprendiendo con nosotros!
 
