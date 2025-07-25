@@ -1,5 +1,5 @@
 
-# EstudiandoInformatica.com <img src="./Logo.png" width=20% align=right>
+# <img src="./Logo.png" width=20% align=right>
 
 Este es el repositorio oficial de EstudiandoInformatica.Com, una plataforma dedicada a compartir conocimiento sobre informática, programación, sistemas y mucho más. Nuestra misión es hacer que el aprendizaje de tecnología sea accesible, práctico y apasionante para todos. 💻
 
